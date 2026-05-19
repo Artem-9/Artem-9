@@ -29,6 +29,6 @@
 ### 📫 Как со мной связаться:
 
 *   **Email:** bigan7@gmail.com
-*   **Резюме:** [Ссылка на HeadHunter / Хабр Карьеру](https://tver.hh.ru/resume/e9b2cbfdff04f7ed1a0039ed1f663635515a49)
+*   **Резюме:** [Ссылка на HeadHunter](https://tver.hh.ru/resume/e9b2cbfdff04f7ed1a0039ed1f663635515a49)
 
 
